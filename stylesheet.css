@@ -26,7 +26,7 @@ background-color: #b3b3b3;
 }
 .img{
 height: auto;
-width:auto;
+    width: 150px;
 }
 .text{
 color: #ffffff;
@@ -46,17 +46,17 @@ text-align: center;
 }
 .about{
   color: #ffffff;
-  margin-top: 20px;
+  margin-top: 40px;
   font-size: 20px;
 }
 .contact{
   color: #ffffff;
-  margin-top: 20px;
+  margin-top: 40px;
   font-size: 20px;
 }
 .socialmedia{
   color: #ffffff;
-  margin-top: 20px;
+  margin-top: 40px;
   font-size: 20px;
     margin-bottom: 20px;
 }
